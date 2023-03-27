@@ -3,6 +3,8 @@ Hi there! While in my master's programming, I had the opportunity to advance my 
 # Modules
 ## Descriptives
 
+## Factor Analysis
+
 ## Linear Regression
 ### Simple Linear Regression
 
